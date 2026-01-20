@@ -53,10 +53,4 @@ RGPV, Bhopal — *2025*
 
 ---
 
-## 🔹 Content Creation
-**VictoryDeveloper**  
-- Educational content on development & DevOps concepts
-
----
-
-📌 **GitHub:** https://github.com/yourusername
+📌 **GitHub:** https://github.com/VijayDabkara155
