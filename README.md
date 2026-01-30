@@ -76,12 +76,12 @@ Full Stack | DevOps Engineer with hands-on experience in Linux, Docker, Jenkins,
 
 ---
 
-### Assistant Manager  
+### Social Media Manager  
 **Prowess Edutech** — Full-time  
 *Mar 2019 – Nov 2021 | Neemuch, Madhya Pradesh*  
-- Managed back-office and administrative operations
-- Prepared reports and documentation using Microsoft Office
-- Supported team coordination and operational workflows
+- Managed Social Media Profiles
+- Create Engaging Posts
+- Create Engaging Content for the orgnization profiles 
 
 ---
 
